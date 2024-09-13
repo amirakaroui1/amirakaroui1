@@ -19,22 +19,16 @@
 
 
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="ReactJS" />
-<!--   <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="NextJS" /> -->
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/50/000000/external-next-js-flaticons-lineal-color-flat-icons.png" alt="NextJS" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-<!--   <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="TailwindCSS" /> -->
-</p>
-<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/tailwind-css.png" alt="TailwindCSS" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="ExpressJS" />
-</p>
-<p align="left">
+  <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-express-js-flat-flat-juicy-fish.png" alt="ExpressJS" />
+  <img src="https://img.icons8.com/external-flat-juicy-fish/50/000000/external-sequelize-flat-flat-juicy-fish.png" alt="Sequelize" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" />
-<!--   <img src="https://img.icons8.com/ios-filled/50/000000/sequelize.png" alt="Sequelize" /> -->
-</p>
-<p align="left">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" />
   <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" />
