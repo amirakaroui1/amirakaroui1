@@ -20,15 +20,13 @@
 
 <p align="left">
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React Native" />
-<!--   <img src="[https://github.com/user-attachments/assets/eaf39b5a-f88a-41dd-8300-4588018be6b0](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/50/000000/external-next-js-flaticons-lineal-color-flat-icons.png)
-" alt="NextJS" /> -->
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" />
-<!--   <img src="[https://github.com/user-attachments/assets/fd501c40-2819-4a6c-8eff-d52b9f252e3d](https://img.icons8.com/color/48/000000/tailwindcss.png)
-" alt="TailwindCSS" /> -->
+  <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
-<!--   <img src="https://github.com/user-attachments/assets/be276e42-8363-46df-aa90-4c2edeca354a
-" alt="ExpressJS" /> -->
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="ExpressJS" />
+  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="NextJS" /> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
