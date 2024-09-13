@@ -26,7 +26,7 @@
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="TailwindCSS" />
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" />
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="ExpressJS" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/nextjs.png" alt="NextJS" /> 
+  <img src="https://img.icons8.com/color/48/000000/nextjs.png" alt="NextJS" /> 
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" />
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" /
   <img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub" />
