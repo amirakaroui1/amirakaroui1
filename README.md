@@ -8,7 +8,7 @@
   👯 I’m looking to collaborate on open-source projects related to web development, especially ones that involve JavaScript or any of its frameworks.<br/>
   🤔 I’m looking for help with optimizing and scaling web applications for better performance and user experience.<br/>
   💬 Ask me about full-stack development, JavaScript, React!<br/>
-  📫 How to reach me: <a href="mailto:amyrakaroui@gmail.com">amyrakaroui@gmail.com</a> | <a href="https://www.linkedin.com/in/amira-karoui-38b608324/">LinkedIn</a><br/>
+  📫 How to reach me: <a href="mailto:amyrakaroui@gmail.com">amyrakaroui@gmail.com</a> | <a href="[https://www.linkedin.com/in/amira-karoui-38b608324/](https://www.linkedin.com/in/amira-karoui-38b608324/)">LinkedIn</a><br/>
   😄 Pronouns: She/Her<br/>
   ⚡ Fun fact: I love to sleep way too much!
 </p>
